@@ -38,5 +38,5 @@ esbuild.build({
 	logLevel: "info",
 	sourcemap: prod ? false : 'inline',
 	treeShaking: true,
-	outfile: 'main.js',
+	outfile: '../test-valult/.obsidian/plugins/obsidian-transliteration-search-plugin/main.js',
 }).catch(() => process.exit(1));
