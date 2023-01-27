@@ -6,6 +6,5 @@
 	"description": "This is a plugin that allows you to advance search with non latin characters.",
 	"author": "DenITDao",
 	"authorUrl": "https://github.com/denitdao",
-	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
