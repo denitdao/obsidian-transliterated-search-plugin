@@ -1,9 +1,9 @@
 {
 	"id": "obsidian-transliterated-search-plugin",
-	"name": "Transliterated Search Plugin",
-	"version": "1.0.0",
+	"name": "Transliterated Search",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "This is a plugin that allows you to advance search with non latin characters.",
+	"description": "Advance your search with non latin characters transliteration!",
 	"author": "DenITDao",
 	"authorUrl": "https://github.com/denitdao",
 	"isDesktopOnly": false

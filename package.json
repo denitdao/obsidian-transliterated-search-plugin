@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-transliterated-search-plugin",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "This is a plugin for Obsidian (https://obsidian.md) that allows you to advance search with non latin characters.",
 	"main": "main.js",
 	"scripts": {
