@@ -7,6 +7,8 @@ For example, if you search for \"Мастер\" it will return all the files tha
 
 **NOTE:** It's usefult for everyone who has Obsidian notes in multiple languages.
 
+![translit-search-demo](https://user-images.githubusercontent.com/49095078/236798030-d67653bf-b246-4d13-8a6f-1c52a9062039.gif)
+
 ### TODO:
 - [x] Add language translation configuration
 - [x] Add two-sided transliteration (from latin to non latin and vice versa)
